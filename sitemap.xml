@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://biancosunero.it/</loc>
-    <lastmod>2022-03-28T18:00:00+02:00</lastmod>
+    <lastmod>2022-04-08T17:30:00+02:00</lastmod>
   </url><url>
     <loc>https://biancosunero.it/posts/</loc>
-    <lastmod>2022-03-28T18:00:00+02:00</lastmod>
+    <lastmod>2022-04-08T17:30:00+02:00</lastmod>
+  </url><url>
+    <loc>https://biancosunero.it/posts/cuoreviaggia/</loc>
+    <lastmod>2022-04-08T17:30:00+02:00</lastmod>
   </url><url>
     <loc>https://biancosunero.it/posts/primeansiediguerra/</loc>
     <lastmod>2022-03-28T18:00:00+02:00</lastmod>
@@ -17,8 +20,6 @@
     <loc>https://biancosunero.it/archives/</loc>
   </url><url>
     <loc>https://biancosunero.it/categories/</loc>
-  </url><url>
-    <loc>https://biancosunero.it/posts/cuoreviaggia/</loc>
   </url><url>
     <loc>https://biancosunero.it/tags/</loc>
   </url>

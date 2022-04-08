@@ -6,7 +6,21 @@
     <description>Recent content in Posts on Bianco Su Nero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 28 Mar 2022 18:00:00 +0200</lastBuildDate><atom:link href="https://biancosunero.it/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 17:30:00 +0200</lastBuildDate><atom:link href="https://biancosunero.it/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quando il cuore viaggia prima del corpo</title>
+      <link>https://biancosunero.it/posts/cuoreviaggia/</link>
+      <pubDate>Fri, 08 Apr 2022 17:30:00 +0200</pubDate>
+      
+      <guid>https://biancosunero.it/posts/cuoreviaggia/</guid>
+      <description>Nell&amp;rsquo;ultimo anno nei momenti di maggiore stress sono tormentato da certe
+immagini ricorrenti: io che sono da tutt&amp;rsquo;altra parte.
+Non so se è una cosa normale, che sopraggiunge con l&amp;rsquo;aumentare degli anni.
+So però che è un grandissimo tormento. La prima volta mi è successo durante il
+ultimo semestre di triennale: ho iniziato a sentirmi in gabbia nel contesto in
+cui mi trovavo e sentivo la mia anima allontanarsi sempre di più.</description>
+    </item>
+    
     <item>
       <title>Prime ansie di guerra</title>
       <link>https://biancosunero.it/posts/primeansiediguerra/</link>
@@ -26,15 +40,6 @@ un ambiente dove la pace era la nuova certezza assoluta, un certezza sicuramente
       <pubDate>Mon, 21 Mar 2022 11:50:00 +0000</pubDate>
       
       <guid>https://biancosunero.it/posts/primopost/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Quando il cuore viaggia prima del corpo</title>
-      <link>https://biancosunero.it/posts/cuoreviaggia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://biancosunero.it/posts/cuoreviaggia/</guid>
       <description>Desc Text.</description>
     </item>
     
